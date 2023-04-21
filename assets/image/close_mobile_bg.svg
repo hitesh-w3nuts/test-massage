@@ -1,0 +1,7 @@
+<svg id="close_mobile_bg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <rect id="Rectangle" width="18" height="18" fill="#fff"/>
+  <g id="e-remove" transform="translate(5 5)">
+    <path id="Path" d="M7.333,0,0,7.333" transform="translate(0.333 0.333)" fill="none" stroke="#0e0e0e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path-2" data-name="Path" d="M0,0,7.333,7.333" transform="translate(0.333 0.333)" fill="none" stroke="#0e0e0e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
